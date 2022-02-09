@@ -12,7 +12,7 @@
     <MinorVersion>0</MinorVersion>
     <PreReleaseVersionLabel>preview9</PreReleaseVersionLabel>
     <PackageId>Quick.AspNetCore.Components.Web.Extensions</PackageId>
-    <Version>6.0.0</Version>
+    <Version>6.0.1</Version>
     <Authors>scbeta</Authors>
     <Product>Quick.AspNetCore.Components.Web.Extensions</Product>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
