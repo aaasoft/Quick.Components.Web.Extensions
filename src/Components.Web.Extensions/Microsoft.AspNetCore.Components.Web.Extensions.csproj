@@ -2,7 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
-    <Description>A collection of Blazor components for the web.</Description>
+    <Description>A collection of Blazor components for the web.
+A fork of Microsoft.AspNetCore.Components.Web.Extensions</Description>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <RootNamespace>Microsoft.AspNetCore.Components</RootNamespace>
     <Nullable>enable</Nullable>
@@ -12,13 +13,14 @@
     <MinorVersion>0</MinorVersion>
     <PreReleaseVersionLabel>preview9</PreReleaseVersionLabel>
     <PackageId>Quick.AspNetCore.Components.Web.Extensions</PackageId>
-    <Version>6.0.1</Version>
+    <Version>6.0.2</Version>
     <Authors>scbeta</Authors>
     <Product>Quick.AspNetCore.Components.Web.Extensions</Product>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <RepositoryUrl>https://github.com/aaasoft/Quick.Components.Web.Extensions</RepositoryUrl>
     <PackageProjectUrl>https://github.com/aaasoft/Quick.Components.Web.Extensions</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageTags>Microsoft.AspNetCore.Components.Web.Extensions</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>

@@ -1,5 +1,6 @@
 # Quick.Components.Web.Extensions
 [![NuGet Version](http://img.shields.io/nuget/v/Quick.AspNetCore.Components.Web.Extensions.svg?style=flat)](https://www.nuget.org/packages/Quick.AspNetCore.Components.Web.Extensions/)
+A collection of Blazor components for the web.
 Fork from https://github.com/aspnet/AspLabs
 
 
