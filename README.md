@@ -1,5 +1,5 @@
 # Quick.Components.Web.Extensions
-[![NuGet Version](http://img.shields.io/nuget/v/Quick.Components.Web.Extensions.svg?style=flat)](https://www.nuget.org/packages/Quick.Components.Web.Extensions/)
+[![NuGet Version](http://img.shields.io/nuget/v/Quick.AspNetCore.Components.Web.Extensions.svg?style=flat)](https://www.nuget.org/packages/Quick.AspNetCore.Components.Web.Extensions/)
 From https://github.com/aspnet/AspLabs
 
 
@@ -11,6 +11,7 @@ From https://github.com/aspnet/AspLabs
 OR
 
 PM> Install-Package Quick.Components.Web.Extensions
+```
 
 **2. Add the following line in your `_Imports.razor`**
 ```csharp
