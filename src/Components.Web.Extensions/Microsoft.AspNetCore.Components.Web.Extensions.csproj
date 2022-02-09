@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk.Razor">
 
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <Description>A collection of Blazor components for the web.</Description>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <RootNamespace>Microsoft.AspNetCore.Components</RootNamespace>
@@ -12,15 +12,15 @@
     <MinorVersion>0</MinorVersion>
     <PreReleaseVersionLabel>preview9</PreReleaseVersionLabel>
     <PackageId>Quick.AspNetCore.Components.Web.Extensions</PackageId>
-    <Version>5.0.0</Version>
+    <Version>6.0.0</Version>
     <Authors>scbeta</Authors>
     <Product>Quick.AspNetCore.Components.Web.Extensions</Product>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Components" Version="5.0.10" />
-    <PackageReference Include="Microsoft.JSInterop" Version="5.0.10" />
+    <PackageReference Include="Microsoft.AspNetCore.Components" Version="6.0.2" />
+    <PackageReference Include="Microsoft.JSInterop" Version="6.0.2" />
   </ItemGroup>
 
 </Project>
