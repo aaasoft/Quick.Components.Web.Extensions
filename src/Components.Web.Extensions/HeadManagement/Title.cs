@@ -43,5 +43,15 @@ namespace Microsoft.AspNetCore.Components.Web.Extensions.Head
         {
             builder.AddMarkupContent(0, $"<!--Head:{JsonSerializer.Serialize(new TitleElement(Value), JsonSerializerOptionsProvider.Options)}-->");
         }
+
+        /// <summary>
+        /// Set title
+        /// </summary>
+        /// <param name="title">Title to be set</param>
+        /// <returns></returns>
+        public ValueTask SetTitleAsync(string title)
+        {
+            return _jsObject.SetTitleAsync(title);
+        }
     }
 }
